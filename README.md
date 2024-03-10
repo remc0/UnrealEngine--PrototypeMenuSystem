@@ -5,6 +5,6 @@ v2.0 edition overview: https://unrealpossibilities.blogspot.com/2018/05/unreal-e
 
 v2.7 edition overview: https://unrealpossibilities.blogspot.com/2022/07/final-major-update-for-prototype-menu.html
 
-For further details & change logs: https://forums.unrealengine.com/community/community-content-tools-and-tutorials/34011-free-prototype-menu-system
+For further details & change logs: https://forums.unrealengine.com/t/blueprints-prototype-menu-system/24353
 
 (Content in this project may only be used in Unreal Engine projects as per the Unreal Engine EULA)
